@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Laís Leite
 - 👀 I’m a beginner develloper.
 - 🌱 I’m currently learning Java, Javascript and MySQL.
-- 💞️ I’m looking to collaborate on projects that will help me to devellop my skills.
+- 💞️ I’m looking to collaborate on projects that will help me develloping my skills in back-end.
 - 📫 How to reach me: 
 Instagram: @milk.lais
 Linkedin: linkedin.com/in/lais-leite-1859a7166/
